@@ -10,6 +10,7 @@
     ```bash
     pip install psutil
     pip install matplotlib
+    pip install socket
     ```
 
 ## Usage
