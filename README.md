@@ -22,8 +22,6 @@
 
 ## Analysis Results
 Analysis results are displayed in the console and include:
-- Peak CPU usage
-- Process with the highest average memory usage
-- Average available disk space
-
-
+- Peak CPU usage 💻
+- Process with the highest average memory usage 🧠
+- Average available disk space 💾
