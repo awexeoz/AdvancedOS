@@ -14,10 +14,9 @@
 
 ## Usage
 
-
-  Run the `quiz3.py` module to analyze the collected data and visualize the results:
+1. Run the `data_analyzer.py` module to analyze the collected data and visualize the results:
     ```bash
-    python quiz3.py
+    python data_analyzer.py
     ```
 
 ## Analysis Results
